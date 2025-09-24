@@ -21,6 +21,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/bluetooth-core" />
+            <option value="$PROJECT_DIR$/bluetooth-examples" />
             <option value="$PROJECT_DIR$/bluetooth-linux" />
             <option value="$PROJECT_DIR$/bluetooth-macos" />
             <option value="$PROJECT_DIR$/bluetooth-windows" />

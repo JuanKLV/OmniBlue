@@ -26,5 +26,6 @@ include(
     ":bluetooth-core",
     ":bluetooth-windows",
     ":bluetooth-linux",
-    ":bluetooth-macos"
+    ":bluetooth-macos",
+    ":bluetooth-examples"
 )

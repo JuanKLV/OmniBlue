@@ -1,6 +1,6 @@
-package com.bluetooth.core;
+package com.bluetooth.core
 
-//public interface BluetoothAdapter {
-//    List<BluetoothDevice> scanDevices();
-//
-//}
+interface BluetoothAdapter {
+    fun isEnabled(): Boolean
+    fun getDevices(): List<BluetoothDevice>
+}

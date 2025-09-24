@@ -1,11 +1,10 @@
 plugins {
-    id("java-library")
+    id("java")
     kotlin("jvm")
-    id("buildsrc.convention.kotlin-jvm")
 }
 
-group = "com.bluetooth.core"
-version = "1.0.0"
+group = "com.bluetooth.examples"
+version = "unspecified"
 
 repositories {
     mavenCentral()
@@ -20,6 +19,3 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
-
-
-
