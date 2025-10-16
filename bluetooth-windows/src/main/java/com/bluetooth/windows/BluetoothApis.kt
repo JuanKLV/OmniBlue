@@ -1,3 +1,5 @@
+@file:Suppress("FunctionName", "ClassName", "PropertyName", "SpellCheckingInspection", "LocalVariableName")
+
 package com.bluetooth.windows
 
 import com.sun.jna.Library
